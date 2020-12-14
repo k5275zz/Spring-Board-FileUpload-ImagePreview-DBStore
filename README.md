@@ -1,6 +1,6 @@
 # Spring-Board-FileUpload-ImagePreview-DBStore
 <br>
-<h3>파일 업로드</h3>
+<h2>파일 업로드</h2>
 <hr>
 
 ![image](https://user-images.githubusercontent.com/71121027/102063858-eae70a00-3e39-11eb-868d-ef9dd18a28ba.png)
@@ -11,7 +11,7 @@
 
 <hr>
 
-<h3>특이사항</h3><br>
+<h2>특이사항</h2><br>
 
 <b>트랜잭션을 이용하여 두개의 정보가 동시에 들어갈때만 실행되게 한다.</b>
 
