@@ -13,6 +13,9 @@
 
 <h3>특이사항</h3><br>
 
+<b><트랜잭션을 이용하여 두개의 정보가 동시에 들어갈때만 실행되게 한다./b>
+
+
 ![image](https://user-images.githubusercontent.com/71121027/102066671-701fee00-3e3d-11eb-98b2-40e53a99bfda.png)
 
 <hr>
