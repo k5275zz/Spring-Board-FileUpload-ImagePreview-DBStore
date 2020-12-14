@@ -11,6 +11,8 @@
 
 <hr>
 
+<h3>특이사항</h3><br>
+
 ![image](https://user-images.githubusercontent.com/71121027/102066671-701fee00-3e3d-11eb-98b2-40e53a99bfda.png)
 
 <hr>
