@@ -1,6 +1,11 @@
 # Spring-Board-FileUpload-ImagePreview-DBStore
 <br>
-<h2>파일 업로드</h2>
+<h2>파일 업로드</h2><br>
+<b>게시판+파일업로드</b>
+<ul>
+  <li>파일등록 및 이미지파일 미리보기 기능 구현</li>
+  <li>submit(등록버튼) 클릭 시 컨트롤러를 지나 서비스에서 파일업로드+게시판정보를 트랜잭션을 이용하여 DB로직을 동시에 처리합니다. </li>
+</ul>
 <hr>
 
 ![image](https://user-images.githubusercontent.com/71121027/102063858-eae70a00-3e39-11eb-868d-ef9dd18a28ba.png)
